@@ -10,11 +10,7 @@ git clone https://github.com/effectivemobile-test/github_api.git
 
 Cоздать виртуальное окружение:
 ```
-python3.11 -m venv venv
-```
-или
-```
-py -3.11 -m venv venv
+python -m venv venv
 ```
 Активировать виртуальное окружение:
 ```
